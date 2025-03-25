@@ -1,7 +1,6 @@
 # Projeto_WBK
  
-WBK - Análise de Empréstimos e Inadimplência
-A WBK é uma empresa fictícia especializada em empréstimos, com foco na facilidade e agilidade para seus clientes. Todo o processo de solicitação e gestão de empréstimos é otimizado para ser realizado de forma rápida e prática via dispositivos móveis, oferecendo a melhor experiência ao usuário.
+A WBK  **é uma empresa fictícia** especializada em empréstimos, com foco na facilidade e agilidade para seus clientes. Todo o processo de solicitação e gestão de empréstimos é otimizado para ser realizado de forma rápida e prática via dispositivos móveis, oferecendo a melhor experiência ao usuário.
 
 O objetivo da empresa é fornecer o maior número possível de informações sobre os empréstimos, garantindo total transparência para seus clientes. No entanto, a inadimplência tem sido uma grande preocupação para a WBK. Atualmente, a taxa de inadimplência está em 35%, e a empresa busca implementar técnicas de análise para reduzir esse percentual para 25% ou menos.
 
