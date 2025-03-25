@@ -6,7 +6,7 @@ O objetivo da empresa é fornecer o maior número possível de informações sob
 
 Para isso, fui responsável pela análise dos dados históricos de empréstimos, fornecidos pela empresa. O banco de dados contém informações detalhadas sobre os últimos empréstimos concedidos, e com base nesses dados, a análise de inadimplência será realizada, utilizando técnicas de modelagem preditiva e análise estatística.
 
-# Dicionário dos dados1. ID : Identificador Único do cliente
+# Dicionário dos dados
 
 **1. ID** : Identificador Único do cliente<br>
 **2. Duracao** : Duração do empréstimo (Em meses)<br>
