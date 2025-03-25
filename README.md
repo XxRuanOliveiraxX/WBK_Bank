@@ -27,4 +27,8 @@ Para isso, fui responsável pela análise dos dados históricos de empréstimos,
 **17. Dependentes** : Quantidade de dependentes do cliente<br>
 **18. SocioEmpresa** : Cliente sócio de empresa? Sim (1) ou Não (0) <br>
 **19.Estrangeiro** : Cliente estrangeiro? Sim (1) ou Não (0) <br>
+<<<<<<< HEAD
 **20. Status** : Adimplente (1) ou Inadimplente (0)<br> 
+=======
+**20. Status** : Adimplente (1) ou Inadimplente (0)<br>
+>>>>>>> 87862a4e2dfcf88943d620cd1ad2eb43eb34e455
